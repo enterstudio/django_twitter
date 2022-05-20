@@ -14,3 +14,4 @@ whitenoise==1.0.6
 autopep8
 django-allauth==0.25.2
 rollbar
+pyjwt>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
