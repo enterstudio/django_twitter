@@ -1,7 +1,7 @@
 dj-database-url==0.3.0
 Django==1.9
 gnureadline==6.3.3
-gunicorn==19.2.1
+gunicorn==22.0.0
 ipython==2.4.1
 Pillow==2.7.0
 psycopg2==2.5.4
